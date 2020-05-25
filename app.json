@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Operation Mind Game",
+    "description": "An interactive math operations game. Test your skills with Operation Mind Game!",
+    "slug": "OperationMindGame",
+    "privacy": "public",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F2F1EF"
+    },
+    "ios": {
+      "bundleIdentifier": "com.traci12.operationmindgame"
+    },
+    "android": {
+      "package": "com.traci12.operationmindgame",
+      "versionCode": 2,
+      "permissions": []
+    }
+  }
+}
